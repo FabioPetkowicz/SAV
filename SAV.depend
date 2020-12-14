@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1355841960 source:c:\users\fabio\desktop\sav - sistema de apuracao de votos\sav\sav.c
+	<stdio.h>
+	"sav.h"
+
+1355842273 c:\users\fabio\desktop\sav - sistema de apuracao de votos\sav\sav.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<conio2.h>
+
+1355839506 source:c:\users\fabio\desktop\sav - sistema de apuracao de votos\sav\main.c
+	<stdio.h>
+	"sav.h"
+

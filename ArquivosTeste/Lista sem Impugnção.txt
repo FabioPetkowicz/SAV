@@ -1,0 +1,1124 @@
+- S.A.V. 1.0 - LLDE
+Nome da Cidade: Caxias do Sul
+
+Numero de Urnas: 35
+
+Numero de vereadores a serem eleitos em Caxias do Sul: 21
+
+Abrindo Arquivo candidatos.txt
+
+------------- CANDIDATOS LIDOS E ARMAZENADOS -------------
+_____________________________________________________________________
+
+15140 -                                      ADELINO TELES - 0 Votos
+
+31500 -                                ADEMIR AD+O DA ROSA - 0 Votos
+
+20119 -                              ADEMIR ALVES DE SOUZA - 0 Votos
+
+14557 -                            ADILO ANGELO DIDOMENICO - 0 Votos
+
+14704 -                               ADOLFO JOS+ DA SILVA - 0 Votos
+
+11234 -                        ADRIANA DE LUCENA FRANCISCO - 0 Votos
+
+12580 -                  ADRIANA SIMONE DE CASTILHOS SUSIN - 0 Votos
+
+14171 -                           ADRIANO CLAUDIO ROSANELI - 0 Votos
+
+15699 -                        AGENOR DOS SANTOS RODRIGUES - 0 Votos
+
+25567 -                           AGUSTINHO JOS+ SILVESTRE - 0 Votos
+
+25100 -                           AIRTON CORREA DOS SANTOS - 0 Votos
+
+13110 -                      AIRTON VALTAIR OLIZ DE MORAES - 0 Votos
+
+12312 -                         ALAIDES DE OLIVEIRA BRANDO - 0 Votos
+
+15610 -                          ALAOR MICHELS DE OLIVEIRA - 0 Votos
+
+12678 -                                     ALBERTO CAMILO - 0 Votos
+
+11611 -                           ALCINDO PAIM DE OLIVEIRA - 0 Votos
+
+25777 -                        ALEANDRO EDUARDO BALZARETTI - 0 Votos
+
+25800 -                               ALEX COLINA FERREIRA - 0 Votos
+
+20011 -                                ALEX NEVES DA SILVA - 0 Votos
+
+65335 -                               ALEX SANDRO PONCIONO - 0 Votos
+
+15020 -                                     ALEXANDRE COR- - 0 Votos
+
+11111 -                         ALEXANDRE PRESTES BORTOLUZ - 0 Votos
+
+12369 -                   ALFREDO FRANCISCO RODRIGUES PAIM - 0 Votos
+
+20900 -                                    ALINE ZANCANARO - 0 Votos
+
+14580 -                            ALMIR CLEMENTINO GUEDES - 0 Votos
+
+15001 -                                    AMILTON MARTINS - 0 Votos
+
+13601 -                                    ANA MARIA CORSO - 0 Votos
+
+12516 -                                 ANA MARIA DE SOUZA - 0 Votos
+
+25444 -                                 ANA ROSANE PEREIRA - 0 Votos
+
+11214 -                            ANDERSON DALBOSCO MENTI - 0 Votos
+
+15080 -                                     ANDERSON GOMES - 0 Votos
+
+43123 -                   ANDERSON ROBERTO BAIRROS BERTONI - 0 Votos
+
+12600 -                                      ANDRE VIDMANN - 0 Votos
+
+17777 -                                ANDRELIZE DE MORAES - 0 Votos
+
+45456 -         ANGELA CRISTINA DE ARAUJO GOULART FERREIRA - 0 Votos
+
+14300 -                         ANGELICA DA SILVA DE MELLO - 0 Votos
+
+20777 -                                 ANIVALDO ZANCANARO - 0 Votos
+
+23050 -                                     ANNA RITA RECH - 0 Votos
+
+40200 -                           ANT-OCO FORTUNATO SARTOR - 0 Votos
+
+11573 -                                  ANTONINHO ANDREIS - 0 Votos
+
+20181 -                     ANTÈNIO CARLOS MOREIRA CARDOSO - 0 Votos
+
+65456 -                 ANTONIO CARLOS SILVEIRA DOS SANTOS - 0 Votos
+
+13377 -                      ANTONIO DOMINGOS NUNES DA LUZ - 0 Votos
+
+14456 -                           ANTÈNIO PAULO DOS SANTOS - 0 Votos
+
+15615 -                             ARI ANTONIO DALLEGRAVE - 0 Votos
+
+11444 -                                   ARLINDO BANDEIRA - 0 Votos
+
+15300 -                            AVANI MARIA REUSE NEGRI - 0 Votos
+
+50340 -                            AVELINO ALVES DE CAMPOS - 0 Votos
+
+50270 -                         BEN HUR MUNARETTO DA SILVA - 0 Votos
+
+17007 -                                  CARINA DA FONSECA - 0 Votos
+
+25000 -                              CARLOS BENEDITO TESTA - 0 Votos
+
+14999 -                      CARLOS EDUARDO PIRES DA SILVA - 0 Votos
+
+25251 -                           CARLOS MAXIMILIANO MOLON - 0 Votos
+
+23500 -                  CARLOS WELADEMIR MARQUES DA SILVA - 0 Votos
+
+13012 -                            CASSANDRA VELHO PEREIRA - 0 Votos
+
+20130 -                          CASSIANE DE SOUZA DA ROSA - 0 Votos
+
+44321 -                             CASSIANO JORGE FONTANA - 0 Votos
+
+13900 -                  CATARINA IZABETE ANTUNES DA SILVA - 0 Votos
+
+12077 -                           C+LIA FERREIRA FERNANDES - 0 Votos
+
+20555 -                                CELSO NOZARI DONADA - 0 Votos
+
+50150 -                                CENI DO CARMO MERIB - 0 Votos
+
+11024 -                             CESAR ALEXANDRE CASARA - 0 Votos
+
+13888 -                              CLAIR DE LIMA GIRARDI - 0 Votos
+
+25011 -                              CLAUDEMIR LIMA ARAUJO - 0 Votos
+
+50567 -                         CLAUDENIR RODRIGUES BIGLIA - 0 Votos
+
+20200 -                                CLAUDINEI FIGUEREDO - 0 Votos
+
+15334 -                         CLAUDIO GODINHO DA FONSECA - 0 Votos
+
+40402 -                           CLAUDIOMIR DA SILVA BRUM - 0 Votos
+
+31123 -                       CLAUDIOMIR FERREIRA CATARINA - 0 Votos
+
+14222 -                                 CLOVIS DE OLIVEIRA - 0 Votos
+
+27222 -                               CREVES BATISTA DINIZ - 0 Votos
+
+40600 -                                   CRIMAR SILVESTRE - 0 Votos
+
+25010 -                            CRISTIAN PEDROSA SOARES - 0 Votos
+
+13013 -                         CRISTIANE BELTRAME PADILHA - 0 Votos
+
+25234 -                            CRISTIANE VELHO PEREIRA - 0 Votos
+
+40321 -                            DAGMAR AZAMBUJA DA ROSA - 0 Votos
+
+15151 -                       DAGOBERTO MACHADO DOS SANTOS - 0 Votos
+
+15670 -                               DAIANE DA SILVA MELO - 0 Votos
+
+40456 -                              DALTRO DA ROSA MACIEL - 0 Votos
+
+45270 -                             DALTRO SANTOS DE SOUZA - 0 Votos
+
+45656 -                              DANIEL ANTONIO GUERRA - 0 Votos
+
+25678 -                                    DANTE PINGUELLO - 0 Votos
+
+55777 -                                 DARCI ADELAR JESUS - 0 Votos
+
+40080 -                           DAVID EMENEGILDO VICENÃO - 0 Votos
+
+20400 -                          DEISE GABRIELA CAVALHEIRO - 0 Votos
+
+13123 -                             DENISE DA SILVA PESSÈA - 0 Votos
+
+65651 -                    DEOCLECIO JOS+ PEREIRA DA SILVA - 0 Votos
+
+10777 -                  DEONILDA DAS GRAÃAS CRUZ DE BARBA - 0 Votos
+
+11999 -                          DIEGO DE FARIAS RODRIGUES - 0 Votos
+
+12250 -                                 DIEGO PINTO SOARES - 0 Votos
+
+11628 -                   DINARA ROSIVANE DA SILVA FURTADO - 0 Votos
+
+65551 -                                   DINIS ZUCCOLOTTO - 0 Votos
+
+12112 -                DIOGENES ANTONIO DE OLIVEIRA BRAZIL - 0 Votos
+
+12210 -                               DORALINA BRUM MINICH - 0 Votos
+
+70777 -                          DOUGLAS SILVEIRA MARIANTE - 0 Votos
+
+25009 -                                  EDERSON SCHNEIDER - 0 Votos
+
+40640 -                        EDI CARLOS PEREIRA DE SOUZA - 0 Votos
+
+14235 -                               EDIANA RAMOS PACHECO - 0 Votos
+
+40500 -                                   EDIO ELOI FRIZZO - 0 Votos
+
+13134 -                               EDIO REIL AVILA ROSA - 0 Votos
+
+43000 -                            EDIOMIR LOPES FERNANDES - 0 Votos
+
+70333 -                                      EDISON BORGES - 0 Votos
+
+20040 -                              EDSON GIOVANI HANAUER - 0 Votos
+
+15680 -                       EDSON PAULO THEODORO DA ROSA - 0 Votos
+
+11011 -                                  ELAINE MARIA AMES - 0 Votos
+
+14140 -                                  ELCIDES ANGHINONI - 0 Votos
+
+14363 -                          ELISABETH MARIA DE CES-RO - 0 Votos
+
+12222 -                         ELISANDRA ANDREIA DE PAULA - 0 Votos
+
+14060 -                              ELISETE DA SILVA ROSA - 0 Votos
+
+40346 -             ELIZANE TERESINHA SZIMINSKI DOS SANTOS - 0 Votos
+
+23525 -                                ELTON LUIZ GRIEBLER - 0 Votos
+
+14022 -                              EMA DE F-TIMA CAVALIN - 0 Votos
+
+45788 -                    EMERSON DANIEL GUBIANI DA COSTA - 0 Votos
+
+14014 -                   ENIO ANAROLINO DE SOUZA DA SILVA - 0 Votos
+
+15200 -                             ENOIR MARIO DOS SANTOS - 0 Votos
+
+65652 -                         EREMI FATIMA DA SILVA MELO - 0 Votos
+
+14065 -                           ESPEDITO DE LIMA ABRAHAO - 0 Votos
+
+12004 -                          EUCLESIO LEOGLACIR M_LLER - 0 Votos
+
+25007 -                         EUNICE ANGELINA PAGNONCELI - 0 Votos
+
+23064 -                       EVA DALVA EBERHARDT DA SILVA - 0 Votos
+
+65637 -                             FABIANO ANDRE DA SILVA - 0 Votos
+
+65658 -                          FATIMA REGINA LIMA FRIZZO - 0 Votos
+
+15655 -                            FELIPE JO+O GREMELMAIER - 0 Votos
+
+13999 -                           FELIPE MULASSANI RETAMAL - 0 Votos
+
+40900 -                         FERNANDO DE OLIVEIRA LEMOS - 0 Votos
+
+13331 -                    FLABIANO FRANCO DA SILVA SOARES - 0 Votos
+
+14357 -                               FLAVIO GUIDO CASSINA - 0 Votos
+
+14540 -                                 FLAVIO SOARES DIAS - 0 Votos
+
+45611 -                    FRANCISCO DE ASSIS SPIANDORELLO - 0 Votos
+
+44123 -                         FRANCISCO LEOVEGILDO LEMOS - 0 Votos
+
+36018 -                              GENI SILVEIRA CAMARGO - 0 Votos
+
+14714 -                                      GEREMIAS RECH - 0 Votos
+
+25001 -                               GERSON CESAR SCHIAVO - 0 Votos
+
+13813 -                             GICELENE XAVIER MACEDO - 0 Votos
+
+15950 -                                   GILBERTO BERTUOL - 0 Votos
+
+15015 -                 GILFREDO OTTO DE CAMILLIS SOBRINHO - 0 Votos
+
+14345 -                              GILMAR ANTONIO PERICO - 0 Votos
+
+40567 -                        GLADIS FRANCESCHETTO FRIZZO - 0 Votos
+
+15007 -                         GRAZIELA CARLA DE OLIVEIRA - 0 Votos
+
+11123 -                             GUILHERME GUILA SEBBEN - 0 Votos
+
+11003 -                                   GUILHERME SOARES - 0 Votos
+
+13456 -                            GUIOVANE MARIA DA SILVA - 0 Votos
+
+12800 -                                 GUSTAVO LUIS TOIGO - 0 Votos
+
+65123 -                         HENRIQUE FERMIANO DA SILVA - 0 Votos
+
+20600 -                             HENRIQUE PAIM DE ABREU - 0 Votos
+
+14076 -                        HORACIO MOREIRA BUENO FILHO - 0 Votos
+
+20300 -                                      IBANOR ROSMAN - 0 Votos
+
+65265 -                                       IDARCI VIVAN - 0 Votos
+
+13113 -                  ILDEFONSO IVAN BARBOSA DA FONSECA - 0 Votos
+
+20222 -                                        IRENE REMOR - 0 Votos
+
+11777 -                                    ISMAIL FAGUNDES - 0 Votos
+
+20505 -                              ISRAEL PINTO DE SOUZA - 0 Votos
+
+12123 -                                    ITACIR PEGORARO - 0 Votos
+
+45345 -                                      ITHAMAR SITTA - 0 Votos
+
+11426 -                              IVAN CARLOS DE VARGAS - 0 Votos
+
+65100 -                  IVANI TERESINHA FRANCISCO DE LIMA - 0 Votos
+
+14000 -                                    IVANIZE PUCHPON - 0 Votos
+
+15888 -                            IVONE MENEGAT RODRIGUES - 0 Votos
+
+55253 -                                  IZABETE TOSS LIMA - 0 Votos
+
+12012 -                          JAISON BARBOSA DOS SANTOS - 0 Votos
+
+25225 -                                 JANAINE DA FONSECA - 0 Votos
+
+14137 -                           JANETE DE F-TIMA VIEZZER - 0 Votos
+
+12212 -                            JANETE FELISBERTO PEZZI - 0 Votos
+
+15777 -                  JANETE JUSTINA PAGNONCELI TAVARES - 0 Votos
+
+11000 -                                 JEANE CARLA SCHULZ - 0 Votos
+
+31143 -                            JEFERSON LEANDRO PRIGOL - 0 Votos
+
+65134 -                         JEFERSON ROCHA DE OLIVEIRA - 0 Votos
+
+45615 -                           JERONIMO DE ROSSI MOLINA - 0 Votos
+
+25325 -                         JESSICA DA FONSECA SCHIAVO - 0 Votos
+
+25060 -                           JEVALDIR CANDIDO DE LIMA - 0 Votos
+
+12015 -                                            JË ARSE - 0 Votos
+
+11224 -                         JO+O AGENOR MARCELINO DIAS - 0 Votos
+
+14177 -                              JO+O BATISTA MONTEIRO - 0 Votos
+
+10333 -                      JO+O CARLOS OLIVEIRA DA SILVA - 0 Votos
+
+12008 -                          JOAO CARLOS VIRGILI COSTA - 0 Votos
+
+11665 -                         JOAO CLENI SANTOS DA SILVA - 0 Votos
+
+13513 -                               JO+O DORLAN DA SILVA - 0 Votos
+
+14234 -                            JOAO MARIA ALVES DREHER - 0 Votos
+
+20550 -                                       JO+O MAZETTO - 0 Votos
+
+12381 -                                   JOAO PAULO PIRES - 0 Votos
+
+65165 -                          JOCEMAR CONCEIÃ+O BARBOSA - 0 Votos
+
+25013 -                                      JONATAN LOPES - 0 Votos
+
+12633 -                                  JONES CARLOS PEDË - 0 Votos
+
+13223 -                        JORGE GILSEU DA COSTA SILVA - 0 Votos
+
+65345 -                               JORGE LUIZ FELICETTI - 0 Votos
+
+20007 -                                  JOS+ CARLOS GOLLO - 0 Votos
+
+55333 -                           JOS+ ENEDIR DIAS BEMFICA - 0 Votos
+
+14666 -                               JOSE MOREIRA DA ROSA - 0 Votos
+
+40677 -                               JOSE PASCUAL DAMBROS - 0 Votos
+
+14567 -                          JOVERCI ALVES DE OLIVEIRA - 0 Votos
+
+50100 -                        JULCEMAR GONÃALVES MENDONÃA - 0 Votos
+
+20413 -                                     JULIANO CECATO - 0 Votos
+
+15012 -                           JULIANO FABRICIO FINARDI - 0 Votos
+
+10123 -                               JURACEMA MAUER VELHO - 0 Votos
+
+65657 -                           JURACI VITORINA DA SILVA - 0 Votos
+
+25888 -                    LAURO ANTONIO FERREIRA DA SILVA - 0 Votos
+
+70170 -                                 LEO TADEU DE BRITO - 0 Votos
+
+25022 -                                     LEOMAR PEDROZO - 0 Votos
+
+12036 -                           LETICIA BITENCOURT MUNIZ - 0 Votos
+
+25250 -                                   LINDOMAR NORONHA - 0 Votos
+
+13654 -                      LINDONES ALBERTO DUARTE ALVES - 0 Votos
+
+50650 -                LOURDES BERNARDETE PADILHA DA SILVA - 0 Votos
+
+65060 -                                LOURDES ZABOT ELIAS - 0 Votos
+
+20310 -                          LUCIA MIRIAN BRASIL FROES - 0 Votos
+
+36336 -                                    LUCIANO TONHOLI - 0 Votos
+
+65613 -                   LUIS CARLOS DE OLIVEIRA FERREIRA - 0 Votos
+
+13666 -                      LUIS FERNANDO BERMUDES SALLES - 0 Votos
+
+65010 -                               LUIZ ALBERTO RIBEIRO - 0 Votos
+
+11190 -                       LUIZ CARLOS DA CRUZ DA SILVA - 0 Votos
+
+12333 -                                  LUIZ CARLOS MUNIZ - 0 Votos
+
+12121 -                      LUIZ CARLOS OLIVEIRA DA SILVA - 0 Votos
+
+65655 -                                         LUIZ CELSO - 0 Votos
+
+40660 -                             LUIZ LORENALDO BARBOSA - 0 Votos
+
+15688 -                          LUIZ NAURO CAMARGO DA LUZ - 0 Votos
+
+12345 -                         LUIZ ORI FERREIRA DA COSTA - 0 Votos
+
+65659 -                      MANOEL DE MEIRA GOIS SOBRINHO - 0 Votos
+
+17500 -                           MARAGLAI GRIPA WIECZOREK - 0 Votos
+
+45678 -                          MARÃAL FERREIRA RODRIGUES - 0 Votos
+
+40333 -                           MARCELINO RAMOS DA SILVA - 0 Votos
+
+70700 -                              MARCELO ANTONIO BUFON - 0 Votos
+
+70123 -                                 MARCELO BRANDALISE - 0 Votos
+
+13413 -                                    MARCELO PEDROSO - 0 Votos
+
+13055 -                           MARCELO SOUZA DOS SANTOS - 0 Votos
+
+70007 -                            MARCELO VENTURA MACHADO - 0 Votos
+
+65789 -                          MARCILIO RODRIGUES MATINS - 0 Votos
+
+11211 -                        MARCIO ANDRE BORGES MOREIRA - 0 Votos
+
+23023 -                   MARCO ANTONIO DA SILVA RODRIGUES - 0 Votos
+
+12355 -                     MARCOS ANTONIO CASTILHOS ABREU - 0 Votos
+
+15030 -                             MARCOS ANTONIO FELIPPI - 0 Votos
+
+13003 -                              MARCOS CARLOS REGELIN - 0 Votos
+
+65678 -                     MARCOS VINICIUS GOMES SPINELLI - 0 Votos
+
+12054 -                              MARIA ALICE RODRIGUES - 0 Votos
+
+40400 -                     MARIA APARECIDA DE CAMPOS WITT - 0 Votos
+
+15050 -                       MARIA CELOI MORAES FERNANDES - 0 Votos
+
+11745 -                          MARIA DE LOURDES GIORDANO - 0 Votos
+
+45777 -                          MARIA GENI FERREIRA REZER - 0 Votos
+
+13400 -                       MARIA NELI OLIVEIRA FERRANTI - 0 Votos
+
+15120 -                               MARIA PATRICIO PINTO - 0 Votos
+
+20123 -                       MARIA SOLECI FERREIRA VARELA - 0 Votos
+
+14401 -                    MARIANA FERNANDA DA SILVA BUENO - 0 Votos
+
+40340 -                             MARISA PAGANIN ZACCANI - 0 Votos
+
+12789 -                                 MARLEA RAMOS ALVES - 0 Votos
+
+65050 -                                   MARLENE TRINDADE - 0 Votos
+
+15677 -                                      MAURO PEREIRA - 0 Votos
+
+13000 -                         MIGUEL MARTINEZ GRAZZIOTIN - 0 Votos
+
+25555 -                                       MILTON TADEI - 0 Votos
+
+50444 -                            MIRIAM ANTUNES FERREIRA - 0 Votos
+
+45754 -                              MONIQUE LA-S BAGATINI - 0 Votos
+
+12346 -                              NAIARA ALVES DA SILVA - 0 Votos
+
+13777 -                         NELSON ACIOLY VIEIRA FILHO - 0 Votos
+
+25123 -                        NERI ANDRADE PEREIRA JUNIOR - 0 Votos
+
+15577 -                             NEUCIR ANTONIO BENETTI - 0 Votos
+
+40070 -                    NEZIA MARGARETE DA SILVA SANTOS - 0 Votos
+
+15045 -                         NICANOR ANTONIO DOS SANTOS - 0 Votos
+
+40655 -                            NOEL RODRIGUES DA SILVA - 0 Votos
+
+54321 -                         OBIRATAN RODRIGUES E SILVA - 0 Votos
+
+65565 -                               ORLI SOARES SALDANHA - 0 Votos
+
+12026 -                            OSVALDO CANDIDO DA CRUZ - 0 Votos
+
+25333 -                             OSVALDO DELLA GIUSTINA - 0 Votos
+
+20020 -                                     OSVALDO TOMAZI - 0 Votos
+
+15014 -                               PATR-CIA IN-S FREIRE - 0 Votos
+
+13750 -                  PAULO CESAR BITENCURTT DE ALMEIDA - 0 Votos
+
+13021 -                                    PAULO KOWALESKI - 0 Votos
+
+65656 -                               PAULO ROBERTO BORGES - 0 Votos
+
+65553 -                         PAULO ROBERTO DE CASTILHOS - 0 Votos
+
+50888 -                             PAULO ROBERTO DE SOUZA - 0 Votos
+
+20999 -                       PAULO ROBERTO MORAES DE LIMA - 0 Votos
+
+12300 -                              PEDRO JUSTINO INCERTI - 0 Votos
+
+20789 -                              PEDRO POLI MASCARELLO - 0 Votos
+
+65190 -                              RAFAEL MALCORRA BUENO - 0 Votos
+
+40789 -                                     RAIMUNDO BAMPI - 0 Votos
+
+31150 -                                 RAMONY MARRI- NERY - 0 Votos
+
+65650 -                    REGINA DE F-TIMA OLIVEIRA BUENO - 0 Votos
+
+15223 -                        REINALDO CORREA DE OLIVEIRA - 0 Votos
+
+12064 -                                  REJANE MARIA GAIO - 0 Votos
+
+10300 -                           RENATO DE OLIVEIRA NUNES - 0 Votos
+
+65654 -                   RENATO JOS+ FERREIRA DE OLIVEIRA - 0 Votos
+
+65005 -                     RENATO UBIRAJARA FORMOSO PIRES - 0 Votos
+
+12666 -                           RENATO VALOIR HOFMEISTER - 0 Votos
+
+11811 -                           RESSOLI GIRARDI FIRMIANO - 0 Votos
+
+17123 -                     RICARDO MOISES MEDEIROS JUNIOR - 0 Votos
+
+20212 -                            RITCHELY DUNKER MOREIRA - 0 Votos
+
+65653 -                                ROBERTO CARLOS DIAS - 0 Votos
+
+55123 -                   ROBERTO CARLOS FIORENTINI GUBERT - 0 Votos
+
+70500 -                               ROBERTO CARLOS SCURO - 0 Votos
+
+50333 -                              ROCHELE ROSA GRAMINHO - 0 Votos
+
+13333 -                            RODRIGO MOREIRA BELTR+O - 0 Votos
+
+14123 -                              ROSA DO CARMO FONSECA - 0 Votos
+
+20100 -                          ROSA MARIA CUNHA DA SILVA - 0 Votos
+
+45123 -                                      ROSANA RABELO - 0 Votos
+
+25012 -                            ROSANA SALDANHA PEREIRA - 0 Votos
+
+25700 -                            ROSANE SILVA DOS SANTOS - 0 Votos
+
+12010 -                              ROSAURA MOREIRA PINTO - 0 Votos
+
+45699 -                           SAMUEL RIBEIRO DE AVILLA - 0 Votos
+
+20333 -                                      SAMUEL SOARES - 0 Votos
+
+15026 -                      SELVIO CARLOS ARA+JO DE SOUZA - 0 Votos
+
+25017 -                               SERGIO ANTONIO CEMIN - 0 Votos
+
+40367 -                     SERGIO UBIRAJARA DA SILVA ROSA - 0 Votos
+
+27111 -                             SILVANA MARIA KAMINSKI - 0 Votos
+
+10121 -                           SILVERIO ROSA DOS SANTOS - 0 Votos
+
+13611 -                                  SILVESTRE PEDROSO - 0 Votos
+
+65105 -                          SOLANGE DA SILVA CARVALHO - 0 Votos
+
+11888 -                     SONIA VAZ DA SILVEIRA GIACOMET - 0 Votos
+
+40777 -                       SUZETE MARIA VIEIRA MOLINARI - 0 Votos
+
+13323 -                      TANIA MARIA GIORDANO DA SILVA - 0 Votos
+
+11311 -                   TASSIANA PAULA DE FARIAS CANCIAN - 0 Votos
+
+40123 -                         TATIANE DUARTE DE OLIVEIRA - 0 Votos
+
+25025 -                                     TATIANE FRIZZO - 0 Votos
+
+13361 -                          THIAGO RODRIGUES DA SILVA - 0 Votos
+
+14114 -                                      TIAGO TESSARI - 0 Votos
+
+14616 -                                   VALDEMAR DE LIMA - 0 Votos
+
+12500 -                               VALDIR CARDOSO BRAGA - 0 Votos
+
+13300 -                                    VALDIR PIEREZAN - 0 Votos
+
+40555 -                              VALDONIR PAULINO RECH - 0 Votos
+
+20012 -                               VALMIR MELO DA SILVA - 0 Votos
+
+13610 -                           VALMOR FLORES DOS SANTOS - 0 Votos
+
+13444 -                            VALMOR GOMES DE ANDRADE - 0 Votos
+
+40474 -                                    VALMOR KAZENSKI - 0 Votos
+
+12122 -                              VALTER AUGUSTO WEBBER - 0 Votos
+
+50777 -                                     VALTER MARTINS - 0 Votos
+
+15999 -                         VANDERLEI PEREIRA DA SILVA - 0 Votos
+
+65065 -                                    VANDERLEI RAMOS - 0 Votos
+
+36023 -                                     VANUZA TONHOLI - 0 Votos
+
+25029 -                          VASCO JOS+ BOLSON LORANDI - 0 Votos
+
+12603 -                                  VELOCINO JOAO UEZ - 0 Votos
+
+55555 -                                 VENCESLAU POZZOBON - 0 Votos
+
+36036 -                             VERONICA PASSOS MOLINA - 0 Votos
+
+25020 -                          VERONICA ROSILENE BRUNING - 0 Votos
+
+20441 -                                    VILMAR DE SOUZA - 0 Votos
+
+12007 -                              VILMAR SILVA OLIVEIRA - 0 Votos
+
+12013 -   VINICIUS CRISTËFERSON CORREA DA SILVA NASCIMENTO - 0 Votos
+
+12612 -                         VINICIUS DE TOMASI RIBEIRO - 0 Votos
+
+13613 -                                   VITOR HUGO GOMES - 0 Votos
+
+15029 -                            VIVIANE MANDELLI CANALI - 0 Votos
+
+40240 -                                     WAGNER PETRINI - 0 Votos
+
+11115 -                              WALDEMAR PAZ DE MELLO - 0 Votos
+
+12999 -                     WASHINGTON STECANELA CERQUEIRA - 0 Votos
+
+33333 -                WILLIAM JACKSON PAOLO DA SILVA BRAZ - 0 Votos
+
+14444 -                             WILSON EDGAR DE BRITTO - 0 Votos
+
+22500 -                                     WILSON TURELLA - 0 Votos
+
+40100 -                                ZEFERINO DE FREITAS - 0 Votos
+
+12022 -                          ZENITE APARECIDA DE JESUS - 0 Votos
+
+14500 -                                   ZORAIDO DA SILVA - 0 Votos
+
+20500 -                               ZULMA ANTUNES BORGES - 0 Votos
+_____________________________________________________________________
+
+18: 0: 0 ---Inicio da Apuracao---
+
+Abrindo arquivo urna 1.txt
+Apurando Votos da urna 1.txt:
+_____________________________________________________________________
+
+18: 0: 1 - 15615 -         ARI ANTONIO DALLEGRAVE - 1 Votos - Lidera
+
+18: 0:28 - 40346 - ELIZANE TERESINHA SZIMINSKI DOS SANTOS - 2 Votos - Lidera
+
+18: 1: 9 - 55777 -             DARCI ADELAR JESUS - 3 Votos - Lidera
+
+18: 2: 2 - 14060 -          ELISETE DA SILVA ROSA - 4 Votos - Lidera
+
+18: 6:43 - 65652 -     EREMI FATIMA DA SILVA MELO - 5 Votos - Lidera
+
+18: 9:58 - 15020 -                 ALEXANDRE COR- - 6 Votos - Lidera
+
+18:11: 5 - 13613 -               VITOR HUGO GOMES - 7 Votos - Lidera
+
+18:18: 5 - 13456 -        GUIOVANE MARIA DA SILVA - 9 Votos - Lidera
+
+18:23: 7 - 40500 -               EDIO ELOI FRIZZO - 11 Votos - Lidera
+
+18:29:21 - 12312 -     ALAIDES DE OLIVEIRA BRANDO - 13 Votos - Lidera
+
+18:30:51 - 25001 -           GERSON CESAR SCHIAVO - 15 Votos - Lidera
+
+18:36:41 - 12312 -     ALAIDES DE OLIVEIRA BRANDO - 16 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 2.txt
+Apurando Votos da urna 2.txt:
+_____________________________________________________________________
+
+18:47:40 - 15012 -       JULIANO FABRICIO FINARDI - 17 Votos - Lidera
+
+18:54:23 - 25001 -           GERSON CESAR SCHIAVO - 19 Votos - Lidera
+
+19: 0: 0 - 15012 -       JULIANO FABRICIO FINARDI - 21 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 3.txt
+Apurando Votos da urna 3.txt:
+_____________________________________________________________________
+
+19:29:57 - 50777 -                 VALTER MARTINS - 27 Votos - Lidera
+
+19:30:57 - 25001 -           GERSON CESAR SCHIAVO - 28 Votos - Lidera
+
+19:35:14 - 15012 -       JULIANO FABRICIO FINARDI - 30 Votos - Lidera
+
+19:43:36 - 12312 -     ALAIDES DE OLIVEIRA BRANDO - 31 Votos - Lidera
+
+20: 1:59 - 12015 -                        JË ARSE - 36 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 4.txt
+Apurando Votos da urna 4.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 5.txt
+Apurando Votos da urna 5.txt:
+_____________________________________________________________________
+
+20:53:55 - 12022 -      ZENITE APARECIDA DE JESUS - 47 Votos - Lidera
+
+21:20:25 - 13750 - PAULO CESAR BITENCURTT DE ALMEIDA - 52 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 6.txt
+Apurando Votos da urna 6.txt:
+_____________________________________________________________________
+
+21:38:21 - 65652 -     EREMI FATIMA DA SILVA MELO - 54 Votos - Lidera
+
+22: 5:17 - 14177 -          JO+O BATISTA MONTEIRO - 60 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 7.txt
+Apurando Votos da urna 7.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 8.txt
+Apurando Votos da urna 8.txt:
+_____________________________________________________________________
+
+23:11:10 - 11444 -               ARLINDO BANDEIRA - 74 Votos - Lidera
+
+23:12:50 - 14177 -          JO+O BATISTA MONTEIRO - 75 Votos - Lidera
+
+23:24: 3 - 11444 -               ARLINDO BANDEIRA - 77 Votos - Lidera
+
+23:29:32 - 11888 - SONIA VAZ DA SILVEIRA GIACOMET - 79 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 9.txt
+Apurando Votos da urna 9.txt:
+_____________________________________________________________________
+
+23:37:55 - 11444 -               ARLINDO BANDEIRA - 80 Votos - Lidera
+
+23:47:58 - 15688 -      LUIZ NAURO CAMARGO DA LUZ - 81 Votos - Lidera
+
+23:52:11 - 11888 - SONIA VAZ DA SILVEIRA GIACOMET - 82 Votos - Lidera
+
+23:54:12 - 15688 -      LUIZ NAURO CAMARGO DA LUZ - 83 Votos - Lidera
+
+ 0: 8:17 - 11888 - SONIA VAZ DA SILVEIRA GIACOMET - 86 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 10.txt
+Apurando Votos da urna 10.txt:
+_____________________________________________________________________
+
+ 0:31:15 - 20500 -           ZULMA ANTUNES BORGES - 89 Votos - Lidera
+
+ 0:38:22 - 14177 -          JO+O BATISTA MONTEIRO - 90 Votos - Lidera
+
+ 0:41:24 - 14222 -             CLOVIS DE OLIVEIRA - 91 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 11.txt
+Apurando Votos da urna 11.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 12.txt
+Apurando Votos da urna 12.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 13.txt
+Apurando Votos da urna 13.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 14.txt
+Apurando Votos da urna 14.txt:
+_____________________________________________________________________
+
+ 3: 7:27 - 50777 -                 VALTER MARTINS - 122 Votos - Lidera
+
+ 3:17:32 - 65335 -           ALEX SANDRO PONCIONO - 125 Votos - Lidera
+
+ 3:39:35 - 14177 -          JO+O BATISTA MONTEIRO - 128 Votos - Lidera
+
+ 3:40:36 - 65335 -           ALEX SANDRO PONCIONO - 129 Votos - Lidera
+
+ 3:42:34 - 14177 -          JO+O BATISTA MONTEIRO - 130 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 15.txt
+Apurando Votos da urna 15.txt:
+_____________________________________________________________________
+
+ 3:43:38 - 50777 -                 VALTER MARTINS - 131 Votos - Lidera
+
+ 4: 6:53 - 14177 -          JO+O BATISTA MONTEIRO - 135 Votos - Lidera
+
+ 4:12:32 - 65335 -           ALEX SANDRO PONCIONO - 136 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 16.txt
+Apurando Votos da urna 16.txt:
+_____________________________________________________________________
+
+ 4:27:55 - 14177 -          JO+O BATISTA MONTEIRO - 139 Votos - Lidera
+
+ 4:45:51 - 50777 -                 VALTER MARTINS - 142 Votos - Lidera
+
+ 4:52:32 - 14177 -          JO+O BATISTA MONTEIRO - 143 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 17.txt
+Apurando Votos da urna 17.txt:
+_____________________________________________________________________
+
+ 5:23:28 - 12333 -              LUIZ CARLOS MUNIZ - 148 Votos - Lidera
+
+ 5:29:15 - 14177 -          JO+O BATISTA MONTEIRO - 149 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 18.txt
+Apurando Votos da urna 18.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 19.txt
+Apurando Votos da urna 19.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 20.txt
+Apurando Votos da urna 20.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 21.txt
+Apurando Votos da urna 21.txt:
+_____________________________________________________________________
+
+ 8: 6:35 - 11745 -      MARIA DE LOURDES GIORDANO - 187 Votos - Lidera
+
+ 8:12:11 - 23050 -                 ANNA RITA RECH - 188 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 22.txt
+Apurando Votos da urna 22.txt:
+_____________________________________________________________________
+
+ 8:55: 4 - 11745 -      MARIA DE LOURDES GIORDANO - 196 Votos - Lidera
+
+ 9: 0:41 - 23050 -                 ANNA RITA RECH - 197 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 23.txt
+Apurando Votos da urna 23.txt:
+_____________________________________________________________________
+
+ 9:17:20 - 14177 -          JO+O BATISTA MONTEIRO - 199 Votos - Lidera
+
+ 9:18:23 - 11745 -      MARIA DE LOURDES GIORDANO - 200 Votos - Lidera
+
+ 9:25:14 - 14177 -          JO+O BATISTA MONTEIRO - 201 Votos - Lidera
+
+ 9:37:54 - 11745 -      MARIA DE LOURDES GIORDANO - 203 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 24.txt
+Apurando Votos da urna 24.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 25.txt
+Apurando Votos da urna 25.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 26.txt
+Apurando Votos da urna 26.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 27.txt
+Apurando Votos da urna 27.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 28.txt
+Apurando Votos da urna 28.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 29.txt
+Apurando Votos da urna 29.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 30.txt
+Apurando Votos da urna 30.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 31.txt
+Apurando Votos da urna 31.txt:
+_____________________________________________________________________
+
+15: 1:37 - 23050 -                 ANNA RITA RECH - 273 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 32.txt
+Apurando Votos da urna 32.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+Abrindo arquivo urna 33.txt
+Apurando Votos da urna 33.txt:
+_____________________________________________________________________
+
+16:14:23 - 12333 -              LUIZ CARLOS MUNIZ - 288 Votos - Lidera
+
+16:23:48 - 23050 -                 ANNA RITA RECH - 290 Votos - Lidera
+
+16:50: 9 - 12333 -              LUIZ CARLOS MUNIZ - 294 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 34.txt
+Apurando Votos da urna 34.txt:
+_____________________________________________________________________
+
+17:18:57 - 23050 -                 ANNA RITA RECH - 301 Votos - Lidera
+
+17:29:57 - 12333 -              LUIZ CARLOS MUNIZ - 303 Votos - Lidera
+_____________________________________________________________________
+
+Abrindo arquivo urna 35.txt
+Apurando Votos da urna 35.txt:
+_____________________________________________________________________
+_____________________________________________________________________
+
+OPERACAO REALIZADA COM SUCESSO.
+
+18:18:20 ------------- RESULTADO DA APURACAO -------------
+
+12333 -  311    23050 -  309    11745 -  305    40456 -  298    14557 -  297
+14177 -  295    45699 -  292    14114 -  286    15015 -  285    25020 -  285
+40789 -  284    11003 -  283    65010 -  283    12112 -  282    13613 -  281
+12010 -  281    50777 -  280    14666 -  280    20500 -  279    13331 -  278
+23064 -  278    20413 -  278    11888 -  277    12222 -  277    54321 -  277
+50650 -  276    13377 -  276    11011 -  276    15045 -  275    20777 -  275
+12054 -  275    65065 -  274    43000 -  274    15012 -  273    12026 -  273
+13654 -  272    12022 -  272    55253 -  272    13223 -  271    10300 -  271
+12600 -  271    11444 -  271    12250 -  271    55123 -  271    14580 -  270
+15120 -  270    25025 -  270    13611 -  270    65190 -  270    65335 -  270
+20222 -  270    13055 -  270    25251 -  270    23023 -  269    25678 -  269
+14235 -  269    65165 -  269    12300 -  269    25777 -  269    25000 -  268
+14616 -  268    14171 -  268    17123 -  268    14222 -  268    15688 -  267
+65100 -  267    13750 -  267    11426 -  267    36023 -  266    65005 -  266
+25234 -  265    15080 -  265    14065 -  265    40200 -  265    12789 -  265
+40240 -  265    20600 -  265    12210 -  265    11811 -  265    23500 -  265
+50270 -  265    11573 -  265    13513 -  264    11611 -  264    65265 -  264
+65050 -  264    25555 -  264    25333 -  264    11628 -  264    65789 -  264
+70777 -  263    13113 -  263    20310 -  263    14076 -  263    14714 -  263
+12004 -  263    40080 -  263    23525 -  263    15300 -  263    70123 -  263
+40123 -  262    25225 -  262    70700 -  262    10123 -  262    12603 -  262
+13413 -  262    13000 -  262    65658 -  262    14704 -  262    20181 -  262
+65637 -  261    13601 -  261    36036 -  261    12666 -  261    13021 -  261
+11024 -  261    25325 -  261    65565 -  261    31150 -  261    36336 -  260
+40900 -  260    70333 -  260    65650 -  260    20012 -  260    45754 -  260
+55555 -  260    13013 -  260    65678 -  260    15029 -  260    25567 -  260
+50567 -  260    25007 -  259    15140 -  259    25011 -  259    40346 -  259
+11000 -  259    15020 -  259    40340 -  259    25010 -  258    40402 -  258
+15001 -  258    65659 -  258    20200 -  258    12122 -  258    12369 -  258
+43123 -  258    11211 -  258    25888 -  257    12678 -  257    45678 -  257
+13999 -  257    11190 -  257    20999 -  257    20550 -  256    36018 -  256
+31143 -  256    14540 -  256    20011 -  256    12121 -  256    40333 -  256
+11115 -  255    12312 -  255    20441 -  255    13813 -  255    12064 -  255
+45123 -  254    12077 -  254    12346 -  254    14500 -  254    13666 -  254
+50888 -  254    12008 -  254    25012 -  254    13300 -  254    25013 -  254
+14060 -  254    13777 -  253    31500 -  253    15151 -  253    11311 -  253
+15670 -  253    20555 -  253    17007 -  253    40640 -  253    15950 -  253
+40600 -  253    13323 -  253    11665 -  253    15999 -  253    14137 -  252
+40660 -  252    12516 -  252    65657 -  252    15677 -  252    14000 -  252
+20505 -  252    13134 -  252    31123 -  251    14123 -  251    11111 -  251
+15888 -  251    13012 -  251    25060 -  251    25100 -  251    55777 -  250
+13400 -  250    14345 -  250    14456 -  250    20020 -  250    12212 -  250
+15577 -  250    10333 -  250    40400 -  250    15007 -  250    14300 -  250
+65553 -  249    12345 -  249    17777 -  249    25022 -  249    10777 -  249
+70170 -  249    25009 -  249    14999 -  249    13003 -  249    12355 -  249
+45777 -  249    14567 -  249    65105 -  249    12123 -  249    50100 -  249
+11999 -  249    65651 -  248    25800 -  248    17500 -  248    45611 -  248
+65060 -  248    14357 -  248    44123 -  247    40555 -  247    25029 -  247
+11777 -  247    65654 -  247    40677 -  246    55333 -  246    13900 -  246
+50444 -  246    20212 -  246    20300 -  246    13888 -  246    20789 -  246
+13456 -  246    12800 -  246    40500 -  245    20130 -  245    15334 -  245
+45456 -  245    12612 -  245    20040 -  244    12580 -  244    65456 -  244
+25700 -  244    14363 -  244    20119 -  244    45345 -  244    14014 -  244
+65652 -  244    50333 -  243    65134 -  243    65123 -  243    27222 -  243
+20100 -  243    70500 -  243    13110 -  243    25017 -  243    12015 -  242
+14140 -  242    20123 -  242    11224 -  242    33333 -  242    22500 -  242
+20007 -  241    15699 -  241    10121 -  241    65656 -  241    20900 -  240
+20400 -  240    65551 -  240    40100 -  240    15610 -  240    65655 -  239
+13123 -  239    25444 -  239    12633 -  238    40655 -  238    15223 -  238
+15200 -  238    40321 -  238    40777 -  238    12500 -  238    12013 -  237
+40567 -  237    13610 -  237    40367 -  237    70007 -  236    27111 -  236
+15615 -  236    45615 -  236    12012 -  235    12999 -  235    15030 -  234
+11123 -  234    13361 -  234    14022 -  234    45788 -  234    14444 -  234
+45270 -  233    45656 -  232    25001 -  232    40070 -  232    12036 -  231
+12381 -  231    20333 -  231    50150 -  231    15014 -  231    44321 -  231
+13333 -  230    15680 -  230    12007 -  228    11234 -  228    25123 -  226
+65345 -  226    15050 -  224    15026 -  222    65653 -  222    15655 -  221
+11214 -  221    25250 -  220    14401 -  219    15777 -  216    14234 -  216
+40474 -  216    50340 -  215    65613 -  213    13444 -  200
+CANDIDATOS ELEITOS:
+_____________________________________________________________________
+
+12333 -                                  LUIZ CARLOS MUNIZ - 311 Votos
+
+23050 -                                     ANNA RITA RECH - 309 Votos
+
+11745 -                          MARIA DE LOURDES GIORDANO - 305 Votos
+
+40456 -                              DALTRO DA ROSA MACIEL - 298 Votos
+
+14557 -                            ADILO ANGELO DIDOMENICO - 297 Votos
+
+14177 -                              JO+O BATISTA MONTEIRO - 295 Votos
+
+45699 -                           SAMUEL RIBEIRO DE AVILLA - 292 Votos
+
+14114 -                                      TIAGO TESSARI - 286 Votos
+
+15015 -                 GILFREDO OTTO DE CAMILLIS SOBRINHO - 285 Votos
+
+25020 -                          VERONICA ROSILENE BRUNING - 285 Votos
+
+40789 -                                     RAIMUNDO BAMPI - 284 Votos
+
+11003 -                                   GUILHERME SOARES - 283 Votos
+
+65010 -                               LUIZ ALBERTO RIBEIRO - 283 Votos
+
+12112 -                DIOGENES ANTONIO DE OLIVEIRA BRAZIL - 282 Votos
+
+13613 -                                   VITOR HUGO GOMES - 281 Votos
+
+12010 -                              ROSAURA MOREIRA PINTO - 281 Votos
+
+50777 -                                     VALTER MARTINS - 280 Votos
+
+14666 -                               JOSE MOREIRA DA ROSA - 280 Votos
+
+20500 -                               ZULMA ANTUNES BORGES - 279 Votos
+
+13331 -                    FLABIANO FRANCO DA SILVA SOARES - 278 Votos
+
+23064 -                       EVA DALVA EBERHARDT DA SILVA - 278 Votos
+_____________________________________________________________________
+
+Impugnar Urna:
